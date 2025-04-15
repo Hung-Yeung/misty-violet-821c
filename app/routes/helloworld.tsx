@@ -7,7 +7,7 @@ export const meta: MetaFunction = () => {
   ];
 };
 
-export default function Index() {
+export default function HelloWorld() {
   return (
     <h1>Hello world!</div>
     )\
